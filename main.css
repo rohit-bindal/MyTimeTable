@@ -1,0 +1,13 @@
+body{
+     background-color: #42f5a7;
+}
+.btndiv
+{
+  float: right;
+    width: 83%;
+    margin-right: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    height:625px;
+    overflow:auto;
+}
